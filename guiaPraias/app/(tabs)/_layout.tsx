@@ -56,4 +56,3 @@ tabBarIcon: ({ color }) => <FontAwesome5 size={28} name="cog" color={color}
 />
 </Tabs>
 );
-}
